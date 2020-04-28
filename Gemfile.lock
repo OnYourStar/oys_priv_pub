@@ -48,5 +48,8 @@ DEPENDENCIES
   private_pub
   thin
 
+RUBY VERSION
+   ruby 2.5.7p206
+
 BUNDLED WITH
-   1.10.6
+   1.17.3
